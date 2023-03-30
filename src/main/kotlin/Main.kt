@@ -8,6 +8,10 @@ fun main() {
     var custom =addObjects()
     println(custom)
 
+    var cars = listOf(
+        Car("N")
+    )
+
 
 
 }
