@@ -9,7 +9,7 @@ fun main() {
     println(custom)
 
     var cars = listOf(
-        Car("N")
+        Car("KBW23",12.6)
     )
 
 
